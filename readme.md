@@ -238,24 +238,25 @@ Combination Sum (I, II, III)
 Restore IP Addresses
 
 ## 10. Miscellaneous & Math (20 problems)
-Pow(x, n)
-Sqrt(x)
-Divide Two Integers without operators
-Reverse Integer / Overflow handling
-Roman to Integer / Integer to Roman
-Happy Number
-Count Primes
-GCD / LCM
-Factorial Trailing Zeros
-Excel Sheet Column Number
-Valid Number
-Random Pick with Weight
-Shuffle an Array
-Reservoir Sampling
-Median of Two Sorted Arrays
-Basic Bit Manipulation Problems (Single Number, Missing Number)
-Majority Element (bit tricks)
-XOR Problems (subarray XOR)
-Gray Code
-Hamming Distance
+- Pow(x, n)
+- Sqrt(x)
+- Divide Two Integers without operators
+- Reverse Integer / Overflow handling
+- Roman to Integer / Integer to Roman
+- Happy Number
+- Count Primes
+- GCD / LCM
+- Factorial Trailing Zeros
+- Excel Sheet Column Number
+- Valid Number
+- Random Pick with Weight
+- Shuffle an Array
+- Reservoir Sampling
+- Median of Two Sorted Arrays
+- Basic Bit Manipulation Problems (Single Number, Missing Number)
+- Majority Element (bit tricks)
+- XOR Problems (subarray XOR)
+- Gray Code
+- Hamming Distance
+
 
