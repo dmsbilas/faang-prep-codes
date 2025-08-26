@@ -237,7 +237,7 @@ Generate Parentheses
 Combination Sum (I, II, III)
 Restore IP Addresses
 
-##10. Miscellaneous & Math (20 problems)
+## 10. Miscellaneous & Math (20 problems)
 Pow(x, n)
 Sqrt(x)
 Divide Two Integers without operators
