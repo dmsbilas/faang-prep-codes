@@ -2,7 +2,7 @@
 
 Covers basics, two-pointer patterns, sliding window, and prefix-sum techniques.
 
-1. Two Sum [Problem Description](https://leetcode.com/problems/two-sum/description/){:target="_blank"}
+1. Two Sum [Problem Description](https://leetcode.com/problems/two-sum/description/&target=_blank)
 2. Best Time to Buy and Sell Stock (I, II)
 3. Maximum Subarray (Kadane's)
 4. Product of Array Except Self
