@@ -3,7 +3,7 @@
 Covers basics, two-pointer patterns, sliding window, and prefix-sum techniques.
 
 1. Two Sum [see](https://leetcode.com/problems/two-sum/description/)
-2. Best Time to Buy and Sell Stock (I, II)
+2. Best Time to Buy and Sell Stock (I, II) [see](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 3. Maximum Subarray (Kadane's)
 4. Product of Array Except Self
 5. Rotate Array
