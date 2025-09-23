@@ -17,9 +17,9 @@ Covers basics, two-pointer patterns, sliding window, and prefix-sum techniques.
 13. [Group Anagrams](https://leetcode.com/problems/group-anagrams/ )
 14. [Valid Anagram](https://leetcode.com/problems/valid-anagram/ )
 15. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/ )
-16. Palindromic Substrings Count
-17. String to Integer (atoi)
-18. Implement strStr / KMP Algorithm
+16. [Palindromic Substrings Count](https://leetcode.com/problems/palindromic-substrings/description/)
+17. [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)
+18. [Implement strStr / KMP Algorithm](https://leetcode.com/discuss/post/2984946/KMP-and-Z-algorithm-Notes-(In-progress)/)
 19. [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/ )
 20. [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/ )
 21. 3Sum / 4Sum / K-Sum Variants
