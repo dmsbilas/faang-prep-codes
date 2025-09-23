@@ -5,23 +5,23 @@ Covers basics, two-pointer patterns, sliding window, and prefix-sum techniques.
 1. [Two Sum](https://leetcode.com/problems/two-sum/description/)
 2. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) (I, II)
 3. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) (Kadane's) 
-4. Product of Array Except Self
-5. Rotate Array
-6. Move Zeroes
-7. Container With Most Water
-8. Trapping Rain Water
-9. Subarray Sum Equals K
-10. Longest Substring Without Repeating Characters
-11. Minimum Window Substring
-12. Longest Repeating Character Replacement
-13. Group Anagrams
-14. Valid Anagram
-15. Longest Palindromic Substring
+4. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)
+5. [Rotate Array](https://leetcode.com/problems/rotate-array/)
+6. [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+7. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+8. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+9. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+10. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+11. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/ )
+12. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/ )
+13. [Group Anagrams](https://leetcode.com/problems/group-anagrams/ )
+14. [Valid Anagram](https://leetcode.com/problems/valid-anagram/ )
+15. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/ )
 16. Palindromic Substrings Count
 17. String to Integer (atoi)
 18. Implement strStr / KMP Algorithm
-19. Wildcard Matching
-20. Regular Expression Matching
+19. [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/ )
+20. [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/ )
 21. 3Sum / 4Sum / K-Sum Variants
 22. Merge Intervals
 23. Insert Interval
