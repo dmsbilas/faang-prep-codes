@@ -16,7 +16,7 @@ print(two_sum([3, 2, 4], 6))
 print(two_sum([3, 3], 6))
 
 
-# This is O(n) time complexity and O(n) space complexity.
+# Better solution: This is O(n) time complexity and O(n) space complexity.
 def two_sum_hashmap(nums, target):
     hashmap = {}
     for i in range(len(nums)):
